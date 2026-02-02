@@ -7,14 +7,14 @@ console.log(name)
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
-const perfectNumber = 42;
-console.log(perfectNumber);
+const number = 42;
+console.log(number);
 
-const nameOfNumber = 'Quarantadue';
-console.log(nameOfNumber);
+const text = 'Quarantadue';
+console.log(text);
 
-const numbValue = true;
-console.log(numbValue);
+const bool = true;
+console.log(bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
